@@ -1,0 +1,6 @@
+{
+  "name": "Rasinskij Telegram Bot",
+  "description": "Rasinskij Telegram Bot Node.js app using Express 4",
+  "repository": "https://github.com/whiteb3ar/razinskij_bot",
+  "keywords": ["telegram", "bot", "node", "express", "heroku"]
+}
